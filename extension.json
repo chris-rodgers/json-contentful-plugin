@@ -1,0 +1,8 @@
+{
+  "id": "json-contentful-plugin",
+  "name": "json-contentful-plugin",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
